@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ReactSPA/static/css/main.cb01dafd.css",
+    "main.js": "/ReactSPA/static/js/main.f8dd86ce.js",
+    "static/js/787.bc9ecdee.chunk.js": "/ReactSPA/static/js/787.bc9ecdee.chunk.js",
+    "static/media/nine.jpg": "/ReactSPA/static/media/nine.780577f885a947a48089.jpg",
+    "static/media/three.jpg": "/ReactSPA/static/media/three.fe72ba539f73b38191cc.jpg",
+    "static/media/montsaintmichel.jpg": "/ReactSPA/static/media/montsaintmichel.c09782608c2724f13653.jpg",
+    "static/media/seven.jpg": "/ReactSPA/static/media/seven.1836371d01e6ab106f64.jpg",
+    "static/media/kenAvatar.png": "/ReactSPA/static/media/kenAvatar.652e58614b3560eab1c2.png",
+    "static/media/eignt.jpg": "/ReactSPA/static/media/eignt.fcd235f2c0e802f5655f.jpg",
+    "static/media/kenPost.jpg": "/ReactSPA/static/media/kenPost.3045af727402d9d0a44e.jpg",
+    "static/media/six.jpg": "/ReactSPA/static/media/six.66b30084a684c0cbb802.jpg",
+    "static/media/four.jpg": "/ReactSPA/static/media/four.96f5e4f1f6e0dd7dcef4.jpg",
+    "static/media/one.jpg": "/ReactSPA/static/media/one.670914b675ad0881269c.jpg",
+    "static/media/five.jpg": "/ReactSPA/static/media/five.e4fe057ca430290a9ca4.jpg",
+    "static/media/two.jpg": "/ReactSPA/static/media/two.a7bc76f8e7a991f86066.jpg",
+    "index.html": "/ReactSPA/index.html",
+    "main.cb01dafd.css.map": "/ReactSPA/static/css/main.cb01dafd.css.map",
+    "main.f8dd86ce.js.map": "/ReactSPA/static/js/main.f8dd86ce.js.map",
+    "787.bc9ecdee.chunk.js.map": "/ReactSPA/static/js/787.bc9ecdee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb01dafd.css",
+    "static/js/main.f8dd86ce.js"
+  ]
+}
