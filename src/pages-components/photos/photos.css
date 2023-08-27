@@ -1,0 +1,20 @@
+.conteiner{
+    padding-bottom: 15px;
+}
+.item{
+    width: 400px;
+    height: 400px;
+    border-radius: 10px;
+}
+.collage{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 7px;
+
+}
+.item:hover{
+    border: solid 2px white;
+    box-shadow: 10px 10px 10px white;
+    width: 410px;
+    height: 410px;
+}

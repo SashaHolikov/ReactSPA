@@ -1,0 +1,23 @@
+.contenier{
+    display: flex; 
+    flex-direction: column;         
+    
+}
+.nav_main{
+    display: flex;    
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    color: white;    
+    border-radius: 5px;    
+}
+.link{  
+    padding: 15px;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+}
+.link:hover{
+    font-size: 35px;
+    color: rgb(221, 236, 178);
+}
