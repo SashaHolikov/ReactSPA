@@ -1,6 +1,6 @@
 import React from "react";
-import Contacts from "./contacts/contacts";
 import uuid4 from "uuid4";
+import Contacts from '../../components/contacts/contacts/contacts';
 
 const contacts = [{
 id:uuid4(),  

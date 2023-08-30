@@ -4,7 +4,7 @@ import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
 import Home from '../home/home';
 import Post from '../posts/post';
 import Photos from '../photos/photos';
-import Contact from '../contacts';
+import Contact from '../contact/contact'
 
 function Nav () {
     return (

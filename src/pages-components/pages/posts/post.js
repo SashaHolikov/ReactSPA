@@ -1,3 +1,8 @@
+import React from "react";
+import './post.css';
+import MyPost from "./MyPost";
+
+
 const postInfo = [{
     id: 0,
     name: "KenB",
@@ -24,7 +29,15 @@ const postInfo = [{
 }
 ];
 
+function Post() {
+   const posts = postInfo;
+    return (
+        <>
+        <MyPost {...posts[0]} />
+        <MyPost {...posts[1]} />
+         </>
+        
+            )
+}
 
-
-
-export default postInfo
+export default Post
